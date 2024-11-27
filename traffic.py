@@ -38,4 +38,5 @@ def ANN():
     predicted_times = scaler_y.inverse_transform(predicted_times_scaled)
 
     for i, count in enumerate(new_vehicle_counts):
+        print("New Vehicle Count:: ",new_vehicle_counts)
         print(f"Vehicle Count: {count[0]}, Predicted Green Time: {predicted_times[i][0]:.2f} seconds")
