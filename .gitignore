@@ -1,0 +1,9 @@
+/YOLO
+/__pycache__
+/coco.names
+/data
+/frame.webp
+/result.jpg
+/test.py
+/yolo11n.pt
+/yolov8n.pt
