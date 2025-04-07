@@ -7,8 +7,6 @@
 
 In urban areas, traffic congestion at intersections is a significant challenge. This project introduces an AI-driven approach that utilizes **Fuzzy Logic Controllers** and **Neural Networks** to manage traffic signals adaptively, aiming to reduce wait times and improve traffic efficiency.
 
----
-
 ## 🔍 Features
 
 - **Dynamic Signal Timing**: Adjusts green light durations based on real-time traffic conditions.
